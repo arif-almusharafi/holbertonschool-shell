@@ -1,1 +1,1 @@
-# Holberton School - Shell Projects
+# Holberton School - Shell
